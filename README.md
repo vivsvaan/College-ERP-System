@@ -1,2 +1,2 @@
 # College-ERP-System
-College Management System or ERP System
+College Management/ERP System
