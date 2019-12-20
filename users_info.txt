@@ -1,0 +1,33 @@
+SUPERUSER
+    erp - erp123
+
+teacher
+    teachercse1 - cse16301
+    teachercse2 - cse16302
+    teachercse3 - cse16303
+    teacherece1 - ece16301
+    teacherece2 - ece16302
+
+
+student
+    charan - co163100  
+    ashlin - co163070
+    abhinav - co163020
+    paras - co163380
+    saksham - co163490
+    vivsvaan - co163620
+
+hod
+    hod - hod16301
+
+    
+1.  add users
+2.  add departments
+3.  add course
+4.  add class
+5.  add student
+6.  add teacher
+7.  add assign (teacher assigned to class and course)
+8.  add assigntime (assign on day and time)
+9.  attendance class
+10. attendance
